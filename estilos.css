@@ -38,9 +38,9 @@ header a{
 }
 /*La movida de búsquedas*/
 input{
-    margin-left: 200px;
+    margin-left: 100px;
     padding: 5px;
-    width: 300px;
+    width: 200px;
     font-family: 'Open Sans', sans-serif;
 }
 /*Aquí empieza la sección//La caja lateral izquierda*/
@@ -77,7 +77,7 @@ section a{
 /*Aquí empieza el main: es donde se ve la galería de productos*/
 main{
     display: inline-block;
-    width: 1000px;
+    width: 880px;
     height: 100px;
     margin-left: 100px;
 }
@@ -91,7 +91,7 @@ main h1{
 main img{
     width: 250px;
     height: 250px;
-    margin: 40px;
+    margin: 20px;
 }
 main img:hover{
     opacity: 60%;
