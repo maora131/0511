@@ -1,6 +1,6 @@
 # 0511
 Página web sobre una tienda de juegos de mesa.
-Colores corporativos: naranja (juventud),blanco y negro.
+Colores corporativos: naranja (juventud),blanco y negro. <br>
 Tipografías: Permanent Maker y Open Sans.
 A partir de un wireframe, lo esquematicé en vscode e hice diferentes secciones.
 El menú de navegación con buscador.
